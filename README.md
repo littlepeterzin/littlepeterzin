@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -102,7 +103,9 @@
     }
   </style>
 </head>
+
 <body>
+
   <header>
     <h1>Littlepeterzin</h1>
   </header>
@@ -114,12 +117,12 @@
 
   <section>
     <h2>Interesses</h2>
-    <p>Eu tenho uma paixão por Counter-Strike, séries, filmes e futebol. Nestas páginas, você encontrará informações e conteúdo relacionado a esses interesses.</p>
+    <p>Eu tenho uma paixão por Counter-Strike, séries, filmes e futebol. Nestas páginas você encontrará informações e conteúdo relacionado a esses interesses.</p>
   </section>
 
   <section>
     <h2>Editor de Vídeo</h2>
-    <p>Profissionalmente, sou um entusiasta de edição de vídeo. Trabalho com diversas ferramentas para criar conteúdo visualmente envolvente. Se você compartilha desse interesse ou precisa de serviços de edição, fique à vontade para <a href="https://www.youtube.com/@Littlepeterzin" target="_blank">entrar em contato!</a></p>
+    <p>Profissionalmente, sou um entusiasta de edição de vídeo. Trabalho com diversas ferramentas para criar conteúdo visualmente envolvente. Se você compartilha esse interesse ou precisa de serviços de edição, fique à vontade para entrar em contato!</p>
   </section>
 
   <section>
@@ -130,13 +133,16 @@
       <a class="youtube-button" href="https://www.youtube.com/@Littlepeterzin" target="_blank">YouTube</a>
       <a class="instagram-button" href="https://www.instagram.com/peterjack.nxt/" target="_blank">Instagram</a>
     </div>
-    <p>ou enviar um e-mail para <a href="mailto:joaovieiraujo@gmail.com">joaovieiraujo@gmail.com</a> para entrar em contato. Estou sempre aberto a novas conexões e oportunidades!</p>
-    <div class="arrows">
-      <span class="arrow">➡️</span>
-      <span class="arrow">⬅️</span>
-      <span class="arrow">➡️</span>
-      <span class="arrow">⬅️</span>
-    </div>
+    <p>Ou envie um e-mail para <a href="mailto:joaovieiraujo@gmail.com">joaovieiraujo@gmail.com</a> para entrar em contato. Estou sempre aberto a novas conexões e oportunidades!</p>
   </section>
+
+  <div class="arrows">
+    <span class="arrow">➡️</span>
+    <span class="arrow">⬅️</span>
+    <span class="arrow">➡️</span>
+    <span class="arrow">⬅️</span>
+  </div>
+
 </body>
+
 </html>
